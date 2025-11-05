@@ -232,6 +232,7 @@ dart analyze
 | Version | Changes                                                      |
 | ------- | ------------------------------------------------------------ |
 | 0.0.1   | Initial release with SafeFraction widget & context extension |
+| 0.0.6   | Some updates to get 160 score no major changes               |
 
 ---
 
