@@ -1,9 +1,9 @@
 name: safe_area_fraction
 description: A Flutter widget that applies padding based on a fraction of the safe area dimensions.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/9xRahul/safe_area_fraction
 repository: https://github.com/9xRahul/safe_area_fraction
-issue_tracker: https://github.com/yourusername/safe_area_fraction/issues
+issue_tracker: https://github.com/9xRahul/safe_area_fraction/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -12,7 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^6.0.0
 
 dev_dependencies:
   flutter_test:
