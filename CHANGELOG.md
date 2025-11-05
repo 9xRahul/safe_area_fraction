@@ -5,7 +5,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.0.4] - 2025-11-05
+## [0.0.5] - 2025-11-05
 ### ✨ Improved
 - Enhanced documentation with a detailed `README.md`.
 - Added complete widget and extension test coverage.

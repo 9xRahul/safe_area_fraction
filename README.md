@@ -29,7 +29,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  safe_area_fraction: ^0.0.1
+  safe_area_fraction: ^0.0.5
 ```
 
 Then run:
